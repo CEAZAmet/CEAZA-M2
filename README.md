@@ -1,5 +1,6 @@
 # Welcome to CEAZA-M2!
 Prototyping board for CEAZA MEGA system.
+![alt text](/Images/M2_Front.jpg?raw=true "CEAZA M2 Board")
 
 # What is the CEAZA-M2?
 Is a prototyping board with a firmware controlled +5V dedicated step-down power supply and controlled Vin pin for CEAZA MEGA system.
